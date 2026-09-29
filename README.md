@@ -42,3 +42,9 @@ python3 scripts/build_site_data.py --run1 <完整提交SHA> --run2 <完整提交
 - 检查打印版和两份下载文档的版本一致性。
 
 源码维护位置：`site/index.html`、`site/assets/style.css`、`site/assets/app.js`；数据生成器：`scripts/build_site_data.py`。
+
+## Complete run 2 status
+
+Live page: https://liu0029yuxuan.github.io/ocs-landscape-presentation/status/
+
+Built from `nnicholas-c/ocs-landscape` master `b36d9ec` using `python3 status/build.py`. The status page and three interactive graphs are published here; the root Chinese presentation retains its earlier snapshots and links to the complete status page.
