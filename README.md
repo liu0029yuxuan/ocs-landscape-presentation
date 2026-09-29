@@ -1,3 +1,13 @@
+# Archived — project moved
+
+Use **[ocs-landscape-report](https://github.com/liu0029yuxuan/ocs-landscape-report)** for the complete project and future updates.
+
+**[Open the published presentation](https://liu0029yuxuan.github.io/ocs-landscape-report/)**
+
+This repository is retained for historical reference.
+
+---
+
 # OCS 中文展示网站
 
 静态 HTML/CSS/JavaScript，无前端依赖，无 API 密钥。主页面是 `index.html`，可直接由 GitHub Pages 发布。
